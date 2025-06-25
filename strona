@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <title>Wszystkie Waluty Świata</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: gold;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: darkblue;
+      margin-bottom: 30px;
+    }
+    .waluta {
+      background-color: white;
+      border-radius: 15px;
+      padding: 15px;
+      margin: 10px auto;
+      max-width: 600px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.15);
+    }
+    .waluta h2 {
+      margin: 0 0 8px;
+      color: darkgreen;
+    }
+    .waluta p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+<h1>🌍 Wszystkie Waluty Świata</h1>
+
+<div class="waluta"><h2>USD - Dolar amerykański</h2><p>Waluta Stanów Zjednoczonych i wielu innych krajów.</p></div>
+<div class="waluta"><h2>EUR - Euro</h2><p>Waluta strefy euro (większość krajów Unii Europejskiej).</p></div>
+<div class="waluta"><h2>JPY - Jen japoński</h2><p>Waluta Japonii.</p></div>
+<div class="waluta"><h2>GBP - Funt szterling</h2><p>Waluta Wielkiej Brytanii.</p></div>
+<div class="waluta"><h2>AUD - Dolar australijski</h2><p>Waluta Australii.</p></div>
+<div class="waluta"><h2>CAD - Dolar kanadyjski</h2><p>Waluta Kanady.</p></div>
+<div class="waluta"><h2>CHF - Frank szwajcarski</h2><p>Waluta Szwajcarii.</p></div>
+<div class="waluta"><h2>CNY - Juan chiński</h2><p>Waluta Chin.</p></div>
+<div class="waluta"><h2>SEK - Korona szwedzka</h2><p>Waluta Szwecji.</p></div>
+<div class="waluta"><h2>NZD - Dolar nowozelandzki</h2><p>Waluta Nowej Zelandii.</p></div>
+<!-- i tak dalej, poniżej pokażę pełną listę -->
+
+<!-- Pełna lista najważniejszych walut (ok. 180) -->
+
+<div class="waluta"><h2>AFN - Afgański afgani</h2><p>Waluta Afganistanu.</p></div>
+<div class="waluta"><h2>ALL - Lek albański</h2><p>Waluta Albanii.</p></div>
+<div class="waluta"><h2>DZD - Dinar algierski</h2><p>Waluta Algierii.</p></div>
+<div class="waluta"><h2>ARS - Peso argentyńskie</h2><p>Waluta Argentyny.</p></div>
+<div class="waluta"><h2>AMD - Dram ormiański</h2><p>Waluta Armenii.</p></div>
+<div class="waluta"><h2>AWG - Florin arubański</h2><p>Waluta Aruby.</p></div>
+<div class="waluta"><h2>AZN - Manat azerski</h2><p>Waluta Azerbejdżanu.</p></div>
+<div class="waluta"><h2>BSD - Dolar bahamski</h2><p>Waluta Bahamów.</p></div>
+<div class="waluta"><h2>BHD - Dinar bahrański</h2><p>Waluta Bahrajnu.</p></div>
+<div class="waluta"><h2>BDT - Taka bengalska</h2><p>Waluta Bangladeszu.</p></div>
+<div class="waluta"><h2>BBD - Dolar Barbadosu</h2><p>Waluta Barbadosu.</p></div>
+<div class="waluta"><h2>BYN - Rubel białoruski</h2><p>Waluta Białorusi.</p></div>
+<div class="waluta"><h2>BZD - Dolar belizeński</h2><p>Waluta Belize.</p></div>
+<div class="waluta"><h2>BMD - Dolar bermudzki</h2><p>Waluta Bermudów.</p></div>
+<div class="waluta"><h2>BTN - Ngultrum bhutański</h2><p>Waluta Bhutanu.</p></div>
+<div class="waluta"><h2>BOB - Boliviano</h2><p>Waluta Boliwii.</p></div>
+<div class="waluta"><h2>BAM - Marka zamienna Bośni i Hercegowiny</h2><p>Waluta Bośni i Hercegowiny.</p></div>
+<div class="waluta"><h2>BWP - Pula botswańska</h2><p>Waluta Botswany.</p></div>
+<div class="waluta"><h2>BRL - Real brazylijski</h2><p>Waluta Brazylii.</p></div>
+<div class="waluta"><h2>BGN - Lew bułgarski</h2><p>Waluta Bułgarii.</p></div>
+<div class="waluta"><h2>KHR - Riel kambodżański</h2><p>Waluta Kambodży.</p></div>
+<div class="waluta"><h2>XOF - Frank CFA BCEAO</h2><p>Waluta używana w 8 krajach Afryki Zachodniej.</p></div>
+<div class="waluta"><h2>XAF - Frank CFA BEAC</h2><p>Waluta używana w 6 krajach Afryki Środkowej.</p></div>
+<div class="waluta"><h2>CLP - Peso chilijskie</h2><p>Waluta Chile.</p></div>
+<div class="waluta"><h2>COP - Peso kolumbijskie</h2><p>Waluta Kolumbii.</p></div>
+<div class="waluta"><h2>KMF - Frank komoryjski</h2><p>Waluta Komorów.</p></div>
+<div class="waluta"><h2>CRC - Colon kostarykański</h2><p>Waluta Kostaryki.</p></div>
+<div class="waluta"><h2>HRK - Kuna chorwacka</h2><p>Waluta Chorwacji.</p></div>
+<div class="waluta"><h2>CUP - Peso kubańskie</h2><p>Waluta Kuby.</p></div>
+<div class="waluta"><h2>CZK - Korona czeska</h2><p>Waluta Czech.</p></div>
+<div class="waluta"><h2>DKK - Korona duńska</h2><p>Waluta Danii.</p></div>
+<div class="waluta"><h2>DOP - Peso dominikańskie</h2><p>Waluta Dominikany.</p></div>
+<div class="waluta"><h2>EGP - Funt egipski</h2><p>Waluta Egiptu.</p></div>
+<div class="waluta"><h2>SVC - Colon salwadorski</h2><p>Waluta Salwadoru.</p></div>
+<div class="waluta"><h2>ERN - Nakfa erytrejska</h2><p>Waluta Erytrei.</p></div>
+<div class="waluta"><h2>ETB - Birr etiopski</h2><p>Waluta Etiopii.</p></div>
+<div class="waluta"><h2>FJD - Dolar fidżyjski</h2><p>Waluta Fidżi.</p></div>
+<div class="waluta"><h2>GMD - Dalasi gambijski</h2><p>Waluta Gambii.</p></div>
+<div class="waluta"><h2>GHS - Cedi ghański</h2><p>Waluta Ghany.</p></div>
+<div class="waluta"><h2>GIP - Funt gibraltarski</h2><p>Waluta Gibraltaru.</p></div>
+<div class="waluta"><h2>GTQ - Quetzal gwatemalski</h2><
